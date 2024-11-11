@@ -1,11 +1,11 @@
-# TechFolio Hub
-TechFolio Mobile App.
+# Coffeetek
+Coffeetek Mobile App
 
 # Features
-* Share Projects
-* Message other developers
-* Rate others work
-* Search other developers
+* Curated Selection of Coffe Beans
+* Detailed Product Information
+* Personalized Recommendations
+* Interactive Coffee Finder
 
 # Course Overview
 * Basic React Native Components
