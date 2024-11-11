@@ -2,7 +2,7 @@
 Coffeetek Mobile App
 
 # Features
-* Curated Selection of Coffe Beans
+* Curated Selection of Coffee Beans
 * Detailed Product Information
 * Personalized Recommendations
 * Interactive Coffee Finder
